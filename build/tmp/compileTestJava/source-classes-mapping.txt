@@ -1,0 +1,2 @@
+com/junitassertiontest/JUnitTest.java
+ com.junitassertiontest.JUnitTest
